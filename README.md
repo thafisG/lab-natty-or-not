@@ -1,4 +1,4 @@
-# Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
+# Vídeo: No Futuro das IAs Generativas 🎥
 
 ## 📒 Descrição
 O projeto é um video realizado com IA para criar a partir de uma iamgem e um texto fornecido um video 
